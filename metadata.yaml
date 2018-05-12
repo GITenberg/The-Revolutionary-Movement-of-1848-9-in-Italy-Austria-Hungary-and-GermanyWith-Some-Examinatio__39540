@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '40070'
     url: http://www.gutenberg.org/2009/agents/40070
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39540#The-Revolutionary-Movement-of-1848-9-in-Italy-Austria-Hungary-and-GermanyWith-Some-Examinatio_
 gutenberg_issued: '2012-04-26'
 gutenberg_type: Text
 identifiers:
